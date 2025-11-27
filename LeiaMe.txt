@@ -1,0 +1,8 @@
+Nome: Gabriel Pedro Alves e Tiago Bernardino Narita
+
+Título: CONTROLE DE GASTOS DIÁRIOS: UM SOFTWARE PARA MELHORAR A ORGANIZAÇÃO FINANCEIRA
+
+Resumo: O controle financeiro pessoal é essencial para uma boa organização das finanças e tomada de decisões mais conscientes sobre os gastos. Este trabalho apresenta o desenvolvimento de um software para controle de gastos diários, com o objetivo de auxiliar os usuários no registro e gerenciamento de suas despesas de forma simples e acessível. A metodologia utilizada inclui pesquisa bibliográfica sobre gestão financeira e análise de ferramentas existentes, além do desenvolvimento do sistema seguindo os princípios da engenharia de software. O software permite ao usuário registrar ganhos e despesas e visualizar seu saldo de forma prática, facilitando o planejamento financeiro. Os resultados esperados incluem maior controle sobre os gastos, redução de despesas desnecessárias e incentivo a uma melhor organização financeira. Conclui-se que ferramentas digitais podem ser um suporte eficiente para ajudar no gerenciamento financeiro pessoal, promovendo hábitos mais saudáveis de consumo.
+
+Orientador: Prof. Me. Fábio Feliciano de Oliveira
+Mês/Ano: Novembro de 2025
